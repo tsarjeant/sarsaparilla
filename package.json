@@ -1,0 +1,17 @@
+{
+  "name": "sarsaparilla",
+  "version": "1.0.0",
+  "description": "new era project start point - boostrapped style guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "T.J. Sarsaparilla",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
